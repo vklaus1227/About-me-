@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Viann Klaus
 
-🎓 Cybersecurity graduate | 📊 Aspiring GRC / Risk Analyst | 🏥 Healthcare compliance pro  
+🎓 Cybersecurity graduate | 📊  GRC / Risk Analyst | 🏥 Healthcare compliance pro  
 🔐 Hands-on learner in cybersecurity labs, compliance simulations, and risk management  
 📚 Currently pursuing CompTIA Security+ certification  
 
@@ -28,7 +28,7 @@ Hands-on rooms completed in:
 - Defensive Security Fundamentals
 - Linux and command-line basics
 
-📎 [View my TryHackMe profile »](https://tryhackme.com/p/YourUsername)
+📎 [View my TryHackMe profile »](https://tryhackme.com/p/viannmarie1)
 
 ---
 
@@ -49,6 +49,6 @@ Hands-on rooms completed in:
 ## 📬 Let's Connect!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/viann-klaus)
-- 💻 [GitHub](https://github.com/YourUsername)
+- 💻 [GitHub](https://github.com/vklaus1227)
 - ✉️ Open to collaboration, mentorship, and early-career cybersecurity opportunities
 
